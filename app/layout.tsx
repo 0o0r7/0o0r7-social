@@ -1,6 +1,4 @@
 import type { Metadata } from 'next';
-import './globals.css';
-
 export const metadata: Metadata = {
   title: '0o0r7 - Social Media',
   description: 'Share content, get followers, likes, comments and engage with community',
