@@ -1,0 +1,26 @@
+{
+  "name": "0o0r7",
+  "version": "1.0.0",
+  "description": "0o0r7 - Social Media Base Mini App",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@coinbase/onchainkit": "^0.18.0",
+    "@onchainkit/frame": "^0.1.0",
+    "next": "15.1.4",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "zustand": "^4.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.3.0"
+  }
+}
